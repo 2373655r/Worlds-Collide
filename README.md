@@ -1,4 +1,4 @@
 # Worlds-Collide
-3D Physics Bending Puzzler  
-Submitted to Ludum Dare and GUDEV game jams  
-Play here: https://thetotemguy.itch.io/nth-space
+2D Physics Bending Puzzler  
+Submitted to GMTK 2021: Joined Together
+Play here: https://thetotemguy.itch.io/worlds-collide
